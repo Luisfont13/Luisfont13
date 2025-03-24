@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jp2zZ+Lc5FSX6QOV5Gnw9JrWqRDlWoDfC9vbB5gptKtN1iEFOmTCWezsom/00hmnqj3lyeJVXmyFcMOVQF5QJA==",
+  "success": true,
+  "projectFilePath": "/mnt/c/users/dell/desktop/emulador/batosera/menups5/MenuPS5.csproj",
+  "expectedPackageFiles": [
+    "/home/luis/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/luis/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/luis/.nuget/packages/eto.forms/2.9.0/eto.forms.2.9.0.nupkg.sha512",
+    "/home/luis/.nuget/packages/eto.platform.gtk/2.9.0/eto.platform.gtk.2.9.0.nupkg.sha512",
+    "/home/luis/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/luis/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/luis/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/luis/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/luis/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/home/luis/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.14/microsoft.netcore.app.runtime.linux-x64.8.0.14.nupkg.sha512",
+    "/home/luis/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.14/microsoft.aspnetcore.app.runtime.linux-x64.8.0.14.nupkg.sha512",
+    "/home/luis/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.14/microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
